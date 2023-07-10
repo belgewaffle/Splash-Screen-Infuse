@@ -12,7 +12,7 @@ public class SplashActivity extends AppCompatActivity {
     private static final int SPLASH_DURATION = 1000;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {        //hi
         super.onCreate(savedInstanceState);
         setContentView(activity_splash);
 
